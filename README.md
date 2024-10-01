@@ -1,19 +1,20 @@
 
 
-- 👋 Hi, I'm Mohamed El Harchi
+# Hi there, I'm Mohamed 👋
 
-I'm a full-stack web developer passionate about building efficient and scalable web applications.
-My expertise spans across front-end and back-end development, with a strong focus on using modern technologies like React, Node.js? Laravel, and MongoDB....
-Currently, I'm honing my skills and working on exciting freelance projects, alongside developing my portfolio.
-When I'm not coding, I enjoy self-learning, exploring new tech, and producing music.
+### Full Stack Developer | Web Enthusiast | Tech Explorer
 
-🔧 Tech I Use:
+- 🌱 Currently learning and growing in full-stack web development
+- 🔥 Passionate about building innovative web solutions
+- 🛠️ Experienced with **JavaScript**, **React**, **Node.js**, **MongoDB**, **Php**, **Laravel**, **Mysql**, and more
+- 🎯 Always eager to take on new challenges and work on exciting projects
+- 💻 Available for freelance work
 
-Front-end: React.js,next.js , HTML, CSS, Bootstrap, Tailwind
-Back-end: Node.js, Express.js, Php, Laravel
-Database: MongoDB, MySQL
-Tools: Git, GitHub, Docker, Jira, ...
-Let’s connect and collaborate!
+### Let's connect!
+- Email: elharchi2023@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [GitHub](https://github.com/your-username)
+
 
 
 
