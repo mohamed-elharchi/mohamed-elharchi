@@ -13,7 +13,6 @@
 ### Let's connect!
 - Email: elharchi2023@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/your-link)
-- [GitHub](https://github.com/your-username)
 
 
 
